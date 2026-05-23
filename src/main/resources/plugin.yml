@@ -1,0 +1,4 @@
+name: PixelAdmin
+version: 1.0
+main: me.mahdi18.pixeladmin.PixelAdmin
+api-version: 1.21
